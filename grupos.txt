@@ -3,8 +3,8 @@ c.	Os grupos. Para cada grupo deve apresentar:
             1. GRUPO A: Catar, Equador, Senegal, Holanda
             2. GRUPO B: Inglaterra, Irã, Estados Unidos, País de Gales/Escócia/Ucrânia*
             3. GRUPO C: Argentina, Arábia Saudita, México, Polônia
-            4. GRUPO D: França, Peru/Emirados Árabes/Austrália, Dinamarca, Tunísia*
-            5. GRUPO E: Espanha, Costa Rica/Nova Zelândia, Alemanha, Japão*
+            4. GRUPO D: França, Peru/Emirados Árabes/Austrália*, Dinamarca, Tunísia
+            5. GRUPO E: Espanha, Costa Rica/Nova Zelândia*, Alemanha, Japão
             6. GRUPO F: Bélgica, Canadá, Marrocos, Croácia
             7. GRUPO G: Brasil, Sérvia, Suíça, Camarões
             8. GRUPO H: Portugal, Gana, Uruguai, Coreia do Sul
