@@ -1,44 +1,24 @@
 b.	Os estádios. Para cada estádio deve apresentar:
-		i.	Localização
-		ii.	Capacidade
-		iii. Ano de inauguração
+		
 		iv.	Tabela com os jogos que irá sediar:
 			1.	Data/Hora
 			2.	Times
 			3.	Grupo
 
 Stadium 974
-    20 November 2021, a digital launch was held for Stadium 974
-    40,000-seat venue
-    Located on the shores of the Gulf, located across the water from Doha's dazzling West Bay skyline.
+   
 Al Bayt Stadium
-    just 35km north of Doha, Al Khor
-    The official opening of AI Bayt Park took place on 11 February 2020, Qatar National Sports Day
-    60,000-capacity arena
+    
 Al Janoub Stadium
-    40,000-capacity
-    opened on 16 May 2019
-    Located in the southern city of Al Wakrah
- Ahmad Bin Ali Stadium
-    up to 40,000 fans
-    opened its doors to the world on 18 December 2020
-    Al Rayyan, one of Qatar's most historic cities, which sits close to Doha
+    
+Ahmad Bin Ali Stadium
+    
 Al Thumama Stadium
-    The stadium has a capacity of 40,000 seats.
-    inauguration on Friday 22 October 2021
-    Located 12km south of Doha's glittering skyline
+    
 Education City Stadium
-    40,000-seat stadium
-    The official completion of Education City Stadium on 15 June 2020
-    The stadium is located on the outskirts of the capital Doha
+    
 Khalifa International Stadium
-    Built in 1976
-    Al Rayyan
-    40,000-seat arena
+    
 Lusail Stadium
-    80,000-seat
-    Lusail, Located 15km north of central Doha 
-    Opened	22 November 2021
-
 
 
