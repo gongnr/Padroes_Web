@@ -1,9 +1,0 @@
-a.	As seleções. Para cada seleção apresente:
-		i.	Quantas copas já participou
-		ii.	Quais premiações alcançou nas Copas do Mundo
-		iii. Nome do Técnico
-		iv.	Principais Jogadores
-		v.	Tabela com os jogos que irá participar:
-			1.	Data/Hora
-			2.	Estádio
-			3.	Adversário
