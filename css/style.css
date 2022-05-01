@@ -1,13 +1,66 @@
-*{background-color: antiquewhite;
+*{padding: 1%;
+    margin:0px;
     text-align: justify;
 }
+
+body{background-color: antiquewhite;}
+
 h1 {text-align: center;
     font-weight: bolder;
 }
+
 .menu{
     float: left;
     padding: 2%;
+    background-color: azure;
+    width: 150px;
+    height: 100%;
 }
+
+.menu ul ul {display: none;}
+
+.menu ul:hover > ul {display: block;}
+
+.menu ul li {
+            display: inline-block;
+            position: relative;
+}
+
+.menu li:hover {
+    background-color: rgb(122, 114, 129);
+}
+
+menu ul ul ul{position: absolute;}
+
+.menu a {
+    text-decoration: none;
+    color:black;
+    display: block;
+    padding: 7px 5px;
+}
+
+.menu ul li {
+    list-style: none;
+}
+
+input[type="checkbox"]{display: none;}
+
 .corpo{
     float: right;
+    padding: 2%;
 }
+table tr {
+    border-collapse:inherit; 
+    border-color: white;
+    border-style: double;
+}
+
+table tr td:last-child {
+    text-align: right;
+}
+.grupo li{
+    font-weight: bolder;
+}
+
+img {float: right;
+padding: 2%;}
